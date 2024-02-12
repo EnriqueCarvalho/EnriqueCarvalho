@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Enrique 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnriqueCarvalho)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnriqueCarvalho&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **EnriqueCarvalho/EnriqueCarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
