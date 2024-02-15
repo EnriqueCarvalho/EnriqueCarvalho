@@ -1,5 +1,6 @@
-### Olá! Eu sou o Enrique 👋
+# Olá, eu sou Enrique! 👋
 
+## 🚀 Sobre mim
 Com uma habilidade sólida e versátil como Desenvolvedor Full Stack, adquirida ao longo de minha trajetória, percorri um caminho de sucesso na área da tecnologia da informação.
 
 Desde os primeiros passos durante meu curso técnico em informática, onde mergulhei nas nuances da manutenção de computadores e na montagem de totens de autoatendimento, até estágios estratégicos na Redomus Inteligência em Segurança, onde pude aprimorar minhas habilidades práticas, sempre mantive meu foco em dominar todas as camadas do desenvolvimento de software.
@@ -11,6 +12,10 @@ Complementando minha formação com uma experiência enriquecedora no Exército 
 Ingressando na Empresa AVMB como estagiário, em Santa Maria, dei mais um salto em minha carreira, aplicando plenamente minhas competências como Desenvolvedor Full Stack. Rapidamente ascendi à posição de Analista de Desenvolvimento, liderando equipes e entregando soluções de alto nível em linguagens como Java, VueJs, Delphi, JavaScript, e dominando bancos de dados DB2 e Oracle, tudo isso seguindo as práticas ágeis do Scrum.
 
 Minha paixão pela tecnologia, aliada ao compromisso com a excelência e a constante busca pelo aprimoramento, me destacam como um profissional completo e preparado para os desafios dinâmicos do cenário atual da TI.
+
+👩‍💻 Trabalho atualmente na AVMB Soluções em TI, sediada na cidade de Santa Maria - RS
+
+🧠 Estou me aprofundando no Java e VueJS como linguagens, e também estou buscando aprender bastante sobre Scrum Master.
 
 <div>
     <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -25,7 +30,7 @@ Minha paixão pela tecnologia, aliada ao compromisso com a excelência e a const
  
 
 
-
+## 🛠 Habilidades
 
 <div style="display: inline_block"><br>   
   <img align="center" alt="Enrique-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
@@ -35,7 +40,7 @@ Minha paixão pela tecnologia, aliada ao compromisso com a excelência e a const
   
 </div>
   
-  ##
+## 📫 Como entrar em contato comigo...
  
 <div> 
   <a href="https://www.linkedin.com/in/enriquedacostacarvalho" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
