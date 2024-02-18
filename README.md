@@ -17,7 +17,7 @@ Minha paixão pela tecnologia, aliada ao compromisso com a excelência e a const
 
 🧠 Estou me aprofundando no Java e VueJS como linguagens, e também estou buscando aprender bastante sobre Scrum Master.
 
-<div>
+<div> 
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=EnriqueCarvalho&show_icons=true&theme=onedark" />
     </a>
